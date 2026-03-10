@@ -1,0 +1,1 @@
+"use strict";exports.id=156,exports.ids=[156],exports.modules={3156:(e,r,t)=>{t.r(r),t.d(r,{default:()=>s});let s=(0,t(8570).createProxy)(String.raw`C:\_work\ride4kids\ride4kids\src\app\ClientApp.tsx#default`)}};
